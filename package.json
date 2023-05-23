@@ -1,0 +1,15 @@
+{
+    "name": "understanding-artificial-intelligence-the-basics-of-artificial-intelligence-for-non-technical-readers",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
