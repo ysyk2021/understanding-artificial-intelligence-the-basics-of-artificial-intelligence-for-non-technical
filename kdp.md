@@ -10,7 +10,7 @@ This book is written for non-technical readers who want to gain a basic understa
 
 Whether you are a business leader, student, or curious reader, this book offers valuable insights and perspectives on the basics of artificial intelligence. By understanding the fundamentals of AI, we can better navigate the rapidly evolving landscape of AI technologies and their applications in various industries.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
