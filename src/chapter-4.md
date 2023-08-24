@@ -1,5 +1,3 @@
-Chapter 4: How Does Artificial Intelligence Work?
-=================================================
 
 Artificial intelligence (AI) is a complex and rapidly evolving field that incorporates various techniques and approaches to achieve intelligent behavior. In this chapter, we will explore some of the fundamental concepts and techniques behind AI.
 

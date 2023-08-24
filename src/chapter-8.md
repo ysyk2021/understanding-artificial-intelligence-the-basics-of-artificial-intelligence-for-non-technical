@@ -1,5 +1,3 @@
-Chapter 8: Future of Artificial Intelligence
-============================================
 
 Artificial Intelligence (AI) is a rapidly advancing field, with new breakthroughs being made all the time. In this chapter, we will explore some of the emerging trends and future prospects of AI.
 

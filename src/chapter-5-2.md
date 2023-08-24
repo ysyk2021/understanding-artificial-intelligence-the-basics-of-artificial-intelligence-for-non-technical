@@ -1,5 +1,3 @@
-Everyday Applications
-=========================================================================
 
 Artificial Intelligence (AI) has the potential to transform many aspects of our daily lives, from how we work to how we communicate with each other.
 

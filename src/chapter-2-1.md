@@ -1,5 +1,3 @@
-Definition of Artificial Intelligence
-==================================================================================
 
 Artificial intelligence (AI) refers to systems that are designed and programmed to perform tasks that typically require human intelligence such as learning, reasoning, problem-solving, perception, decision-making, and natural language processing. The definition of AI has evolved over the years as the technology has advanced, and there is still ongoing debate about what can and cannot be classified as AI.
 

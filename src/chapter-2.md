@@ -1,5 +1,3 @@
-Chapter 2: What is Artificial Intelligence?
-===========================================
 
 Definition of Artificial Intelligence
 -------------------------------------

@@ -1,5 +1,3 @@
-Challenges and Risks of AI
-==========================================================================================
 
 While Artificial Intelligence (AI) has the potential to bring about many benefits, it also poses some challenges and risks. In this chapter, we will explore some of these challenges and risks.
 

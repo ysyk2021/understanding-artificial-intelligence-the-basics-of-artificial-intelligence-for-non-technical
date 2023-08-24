@@ -1,5 +1,3 @@
-Deep Learning and Neural Networks
-====================================================================================
 
 Deep learning is a subfield of machine learning that focuses on developing algorithms inspired by the structure and function of the human brain. These algorithms, known as neural networks, are composed of interconnected nodes or neurons that process and transmit information.
 

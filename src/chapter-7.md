@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to Artificial Intelligence
-======================================================================
 
 Artificial intelligence (AI) poses various ethical and legal challenges that must be carefully considered and addressed. In this chapter, we will explore some of the key ethical and legal issues related to AI.
 

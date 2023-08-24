@@ -1,5 +1,3 @@
-Natural Language Processing
-==============================================================================
 
 Natural language processing (NLP) is a branch of artificial intelligence (AI) that focuses on the interaction between computers and human language. In this chapter, we will explore how NLP works and some of its applications.
 

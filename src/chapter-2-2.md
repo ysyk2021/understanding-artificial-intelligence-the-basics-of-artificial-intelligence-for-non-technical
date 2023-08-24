@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-=============================================================================
 
 Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as understanding natural language, recognizing speech and images, and making decisions. In this chapter, we will explore the different types of AI and their applications.
 

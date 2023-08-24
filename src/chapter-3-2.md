@@ -1,5 +1,3 @@
-Key Milestones in AI Development
-===============================================================================
 
 Artificial intelligence (AI) has a rich history spanning back over 60 years. From early attempts at machine learning to today's sophisticated deep learning algorithms, the field of AI has undergone significant advancements and breakthroughs. In this chapter, we will explore some of the key milestones in the development of AI.
 

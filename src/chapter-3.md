@@ -1,5 +1,3 @@
-Chapter 3: History of Artificial Intelligence
-=============================================
 
 Artificial intelligence (AI) has a long and fascinating history, dating back to the early days of computing. In this chapter, we will explore the key milestones in AI development and how they have led us to where we are today.
 

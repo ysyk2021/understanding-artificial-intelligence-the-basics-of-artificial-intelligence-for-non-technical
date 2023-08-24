@@ -1,5 +1,3 @@
-Chapter 5: Applications of Artificial Intelligence
-==================================================
 
 Artificial intelligence (AI) has many practical applications across different industries and in our daily lives. In this chapter, we will explore some of the most common applications of AI.
 

@@ -1,5 +1,3 @@
-Legal Framework
-=======================================================================================
 
 Artificial intelligence (AI) has the potential to transform society, but it also raises ethical and legal concerns. In this chapter, we will explore the current legal framework related to AI, including existing laws and regulations, as well as new proposals and initiatives.
 

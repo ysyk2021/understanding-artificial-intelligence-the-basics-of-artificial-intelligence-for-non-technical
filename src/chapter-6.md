@@ -1,5 +1,3 @@
-Chapter 6: Benefits and Limitations of Artificial Intelligence
-==============================================================
 
 Artificial intelligence (AI) has the potential to transform many industries and improve our daily lives in various ways. However, as with any emerging technology, it also has its limitations and risks. In this chapter, we will explore the benefits and limitations of AI.
 

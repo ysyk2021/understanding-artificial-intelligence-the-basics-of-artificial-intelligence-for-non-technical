@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The purpose of this book is to provide a basic understanding of artificial intelligence (AI) for non-technical readers. AI is a complex and rapidly evolving field, and has the potential to transform many aspects of our lives and society. However, it can also be challenging for individuals without a technical background to understand the basics of AI, including its applications and impact.
 

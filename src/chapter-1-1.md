@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Importance
-===============================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to transform many aspects of our lives and society. At its core, AI involves machines that are designed and programmed to perform tasks that would normally require human intelligence to complete.
 

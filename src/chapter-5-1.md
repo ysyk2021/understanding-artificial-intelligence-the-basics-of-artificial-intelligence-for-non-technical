@@ -1,5 +1,3 @@
-Industry-Specific Applications
-==================================================================================
 
 Artificial intelligence (AI) has applications across a wide range of industries. In this chapter, we will explore some of the industry-specific applications of AI.
 

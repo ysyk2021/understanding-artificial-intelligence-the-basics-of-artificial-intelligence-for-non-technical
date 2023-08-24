@@ -1,5 +1,3 @@
-Early Beginnings of AI
-=====================================================================
 
 The history of artificial intelligence (AI) can be traced back hundreds of years to the development of mathematical and mechanical devices used to automate tasks that were once performed by humans. Over time, these early developments paved the way for the modern field of AI we know today.
 

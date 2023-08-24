@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================
 
 Machine learning is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to learn from data inputs and improve their performance over time. In this chapter, we will explore some of the most common machine learning techniques used in AI research.
 
