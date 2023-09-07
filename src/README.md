@@ -8,3 +8,7 @@ This book is written for non-technical readers who want to gain a basic understa
 Whether you are a business leader, student, or curious reader, this book offers valuable insights and perspectives on the basics of artificial intelligence. By understanding the fundamentals of AI, we can better navigate the rapidly evolving landscape of AI technologies and their applications in various industries.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
