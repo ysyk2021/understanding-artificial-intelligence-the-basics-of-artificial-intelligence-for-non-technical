@@ -1,5 +1,4 @@
-Chapter 1: Definition of Artificial Intelligence
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) refers to the development and implementation of computer systems that can perform tasks requiring human intelligence. It encompasses a wide range of technologies and techniques that enable machines to imitate or simulate human cognitive functions. In this chapter, we will explore the fundamental concepts and components of AI, providing a comprehensive definition of this fascinating field.
 

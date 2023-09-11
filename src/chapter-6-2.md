@@ -1,5 +1,4 @@
-Chapter 8: Challenges and Risks of AI
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has the potential to revolutionize various aspects of our lives, but it also presents unique challenges and risks that require careful consideration. This chapter explores some of the key challenges and risks associated with AI, highlighting the importance of responsible development and deployment of this transformative technology.
 

@@ -1,5 +1,4 @@
-Chapter 7: Natural Language Processing
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Natural Language Processing (NLP) is a field of Artificial Intelligence that focuses on enabling computers to understand, interpret, and generate human language. This chapter explores the fundamentals of NLP, its techniques, applications, and the impact it has on various industries.
 

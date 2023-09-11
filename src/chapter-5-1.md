@@ -1,5 +1,4 @@
-Chapter 7: Industry-Specific Applications
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has transformative potential across various industries, revolutionizing processes, enhancing efficiency, and driving innovation. In this chapter, we delve into industry-specific applications of AI, highlighting its impact and benefits in different sectors.
 

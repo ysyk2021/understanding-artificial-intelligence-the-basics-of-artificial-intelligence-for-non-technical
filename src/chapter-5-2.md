@@ -1,5 +1,4 @@
-Chapter 6: Everyday Applications
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has become increasingly integrated into our daily lives, revolutionizing various industries and providing solutions to everyday challenges. In this chapter, we explore some of the key areas where AI is making a significant impact and enhancing our everyday experiences.
 

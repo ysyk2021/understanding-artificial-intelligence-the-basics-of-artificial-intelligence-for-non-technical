@@ -1,5 +1,4 @@
-Chapter 10: Legal Framework
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As Artificial Intelligence (AI) continues to evolve and shape society, it is crucial to establish a legal framework that governs its development, deployment, and use. This chapter explores the key legal considerations associated with AI and highlights the importance of addressing these issues to ensure responsible and ethical practices.
 

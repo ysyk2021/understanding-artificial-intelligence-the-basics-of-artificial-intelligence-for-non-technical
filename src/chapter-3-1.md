@@ -1,5 +1,4 @@
-Chapter 2: Early Beginnings of AI
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has its roots in a rich history of ideas and concepts that date back to ancient times. In this chapter, we explore the early beginnings of AI, tracing the origins of AI-related concepts and the initial steps towards the development of this fascinating field.
 

@@ -1,5 +1,4 @@
-Chapter 4: Key Milestones in AI Development
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has a rich history of development and innovation, marked by significant milestones that have shaped the evolution of this field. In this chapter, we explore some of the key milestones in AI development, highlighting breakthroughs and advancements that have paved the way for the current state of AI.
 
